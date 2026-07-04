@@ -100,13 +100,13 @@ ARP Packets     : 1
 
 ## Clone the repository 
 '''bash
-https://github.com/pardeep24kumar/Network_Sniffer.git
+https://github.com/pardeep12kumar/Network_Sniffer.git
 cd Network_Sniffer
 
 ---
 
-## Future improvement
-
+## Future improvementA
+A
 1. GUI Interface 
 2. Packet filtering 
 3. Packet Search
